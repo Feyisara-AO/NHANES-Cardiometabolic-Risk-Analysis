@@ -67,22 +67,6 @@ Prevention (CDC).
 
 ---
 
-## Repository Structure
-NHANES-Cardiometabolic-Risk-Analysis/
-│
-├── R/
-│   └── nhanes_startup.R          # Data loading and conversion script
-│
-├── SQL/
-│   └── nhanes_queries.sql        # Clinical analysis queries (in progress)
-│
-├── docs/
-│   └── findings_summary.md       # Key findings documentation
-│
-└── README.md
-
----
-
 ## Tools and Standards
 - **R** — XPT to CSV conversion using haven package
 - **Excel** — Data cleaning, VLOOKUP joins, reference range flagging, 
