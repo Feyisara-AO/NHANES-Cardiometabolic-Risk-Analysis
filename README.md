@@ -20,7 +20,7 @@ Prevention (CDC).
 - Apply clinical reference range flagging across biochemistry and 
   cardiovascular markers
 - Build a seven-factor cardiometabolic risk scoring model
-- Stratify risk by demographic group — age, gender, race, education level
+- Stratify risk by demographic group - age, gender, race, education level
 - Produce a structured clinical findings report following CSR conventions
 
 ---
@@ -59,21 +59,21 @@ Prevention (CDC).
 - **47.4%** showed above normal blood pressure readings
 - **7.9%** showed some degree of kidney function impairment
 - No Risk prevalence fell **41 percentage points** between Under 40 
-  and 40-60 age groups — identifying midlife as the critical 
+  and 40-60 age groups, identifying midlife as the critical 
   cardiometabolic intervention window
-- A consistent education gradient exists — High Risk prevalence 
+- A consistent education gradient exists - High Risk prevalence 
   nearly doubles from College Graduates to participants with less 
   than 9th grade education
 
 ---
 
 ## Tools and Standards
-- **R** — XPT to CSV conversion using haven package
-- **Excel** — Data cleaning, VLOOKUP joins, reference range flagging, 
+- **R** : XPT to CSV conversion using haven package
+- **Excel** : Data cleaning, VLOOKUP joins, reference range flagging, 
   pivot tables, dashboard
-- **SQL** — SQLite query replication of analysis (in progress)
-- **CDISC-aligned** — SDTM domain logic applied throughout
-- **GLP principles** — Data integrity standards maintained at every stage
+- **SQL** : SQLite query replication of analysis (in progress)
+- **CDISC-aligned** : SDTM domain logic applied throughout
+- **GLP principles** : Data integrity standards maintained at every stage
 
 ---
 
