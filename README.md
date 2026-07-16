@@ -65,6 +65,39 @@ Prevention (CDC).
   nearly doubles from College Graduates to participants with less 
   than 9th grade education
 
+ ---
+
+## Project Visuals
+
+### Overall Cardiometabolic Risk Distribution
+![Overall Risk Distribution](01_overall_risk_distribution.png)
+*53.6% of 9,254 participants carry at least one cardiometabolic risk factor*
+
+---
+
+### Risk Distribution by Age Group
+![Risk by Age Group](02_risk_by_age_group.png)
+*No Risk prevalence falls 41 percentage points between Under 40 and 40-60 age groups*
+
+---
+
+### Master Analysis Table Structure
+![Master Analysis Table](03_master_analysis_table.png)
+*9,254 participants across six integrated clinical datasets*
+
+---
+
+### Full Project Dashboard
+![Dashboard Overview](04_dashboard_overview.png)
+*Five clinical summary charts across demographic and biochemistry findings*
+
+---
+
+### Key Findings Report
+![Key Findings](05_key_findings.png)
+*Structured findings report following clinical study report conventions*
+ 
+
 ---
 
 ## Tools and Standards
