@@ -11,7 +11,7 @@ Prevention (CDC).
 **Participants:** 9,254  
 **Datasets integrated:** 6  
 **Risk factors modelled:** 7  
-**Tools used:** R · Excel · SQL (in progress)
+**Tools used:** R · Excel · SQL
 
 ---
 
@@ -80,7 +80,7 @@ Prevention (CDC).
 ## Data Source
 All data from the publicly available NHANES 2017-2018 survey conducted 
 by the US Centers for Disease Control and Prevention.  
-Source: [CDC NHANES](https://www.cdc.gov/nchs/nhanes/index.htm)
+Source: [CDC NHANES](https://wwwn.cdc.gov/nchs/nhanes/search/datapage.aspx)
 
 ---
 
